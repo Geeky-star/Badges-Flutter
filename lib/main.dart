@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         leading: Badge(
-          position: BadgePosition.topEnd(top: 10, end: 10),
+          position: BadgePosition.topEnd(top: 20, end: 10),
           badgeContent: null,
           child: IconButton(
             icon: const Icon(Icons.menu),
