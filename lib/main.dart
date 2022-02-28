@@ -37,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ),
         title:
-            const Text('GeeksForGeeks', style: TextStyle(color: Colors.white)),
+            const Text('Badges', style: TextStyle(color: Colors.blue)),
         backgroundColor: Colors.green,
         centerTitle: true,
       ),
